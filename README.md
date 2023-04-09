@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi, I'm Christian Stewart! 👋
 
 ## 🎓 About me
-I'm an undergraduate computer science student at Minnesota State University - Mankato. I'm passionate about [specific topics or technologies].
+I'm an undergraduate computer science student at Minnesota State University - Mankato. I'm passionate about AI, web development, and general software engineering.
 
 ## 🛠 Skills
 - Programming languages: Go, JavaScript/TypeScript, Python, Java, C#
@@ -26,7 +26,7 @@ I'm an undergraduate computer science student at Minnesota State University - Ma
 
 ## 📚 Projects
 - [Digital Benefit Sheet for Wireless World - Verizon](https://github.com/ctstewart/dbs-client.git)
-- [Hidden Village for University of Wisconsin - Madison]((https://github.com/ctstewart/hidden_village)
+- [Hidden Village for University of Wisconsin - Madison](https://github.com/ctstewart/hidden_village)
 
 ## 📫 How to reach me
 - Email: christian.stewart@mnsu.edu
