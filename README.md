@@ -25,9 +25,8 @@ I'm an undergraduate computer science student at Minnesota State University - Ma
 - Tools: Git, GitHub, VSCode, Docker, Kubernetes
 
 ## 📚 Projects
-- [Project 1](GitHub Repository URL): Short description of the project.
-- [Project 2](GitHub Repository URL): Short description of the project.
-- [Project 3](GitHub Repository URL): Short description of the project.
+- [Digital Benefit Sheet for Wireless World - Verizon](https://github.com/ctstewart/dbs-client.git)
+- [Hidden Village for University of Wisconsin - Madison]((https://github.com/ctstewart/hidden_village)
 
 ## 📫 How to reach me
 - Email: christian.stewart@mnsu.edu
