@@ -16,13 +16,20 @@ Here are some ideas to get you started:
 # Hi, I'm Christian Stewart! 👋
 
 ## 🎓 About me
-I'm an undergraduate computer science student at Minnesota State University - Mankato. I'm passionate about AI, web development, and general software engineering.
+I'm a developer who builds tools, experiments with automation, and loves to learn.
+
+I work a 9-to-5 in IT and spend my free time building toward something I own.
+
+<!--
+I'm not sure if this is that useful, it might be better to show, not tell.
+Leaving it commented out for now.
 
 ## 🛠 Skills
 - Programming languages: Go, JavaScript/TypeScript, Python, Java, C#
 - Web development: HTML, CSS, React, Vue.js, Node.js, Express.js
 - Databases: MySQL, PostgreSQL, MongoDB
 - Tools: Git, GitHub, VSCode, Docker, Kubernetes
+-->
 
 ## 📚 Projects
 - [Digital Benefit Sheet for Wireless World - Verizon](https://github.com/ctstewart/dbs-client.git)
