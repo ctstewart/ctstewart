@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🎓 About me
 I'm a developer who builds tools, experiments with automation, and loves to learn.
 
-I work a 9-to-5 in IT and spend my free time building toward something I own.
+I work an 8-to-5 in IT and spend my free time building toward something I own.
 
 <!--
 I'm not sure if this is that useful, it might be better to show, not tell.
